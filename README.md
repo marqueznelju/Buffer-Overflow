@@ -1,4 +1,4 @@
 # Buffer-Overflow
 Over printing
 
-Storing many string into memory.
+Storing many sausage into memory.
